@@ -43,11 +43,6 @@ App支持 | 无 | **支持**
 USB连接线 | 有 | 有
 蓝牙适配器 | 无 | **有**
 
-
-> TODO
-
-![anne-details](images/anne-details.png)
-
 ## 快捷键
 
 快捷键 | 描述 | 备注 | 版本要求
