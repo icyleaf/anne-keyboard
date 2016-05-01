@@ -62,29 +62,19 @@ FN + 0 | 兼容模式/标准模式切换 | 黄灯表示兼容模式，绿灯为�
 
 > 系统预置布局
 
-快捷键 | 描述
----|---
-FN + WSAD | 上下左右
-FN + IKJL | 上下左右
-FN + ? | Delete
-FN + > | Insert
-FN + ; | Page Up
-FN + ' | Page Down
-FN + [ | Home
-FN + ] | End
-FN + \ | Print Screen
-FN + 123456789 | 功能键 F1-9
-FN + 0 | 功能键 F10
-FN + - | 功能键 F11
-FN + = | 功能键 F12
+[![anne-standard-layout1](images/anne-standard-layout1.png)][anne-standard-layout1-link]
 
 ### 标准布局2
 
 > 带独立方向键的标准布局
 
+[![anne-standard-layout2](images/anne-standard-layout2.png)][anne-standard-layout2-link]
+
 ### Mac 布局
 
 > Mac 标准布局
+
+[![anne-mac-layout](images/anne-mac-layout.png)][anne-mac-layout-link]
 
 ## 固件版本
 
@@ -113,6 +103,10 @@ FN + = | 功能键 F12
 [anne-link]: http://www.obins.net/
 [anne-jd-z-link]: http://z.jd.com/project/details/34676.html
 [anne-taobao-link]: https://shop116784704.taobao.com/
+
+[anne-standard-layout1-link]:  http://www.keyboard-layout-editor.com/##@_name=%E5%AE%89%E5%A6%AE%E6%A0%87%E5%87%86%E5%B8%83%E5%B1%801%3B&@_a:7%3B&=Esc%0A%0A%0A%0A%60~&_a:4%3B&=!%0A1%0A%0A%0AF1&=%2F@%0A2%0A%0A%0AF2&=%23%0A3%0A%0A%0AF3&=$%0A4%0A%0A%0AF4&=%25%0A5%0A%0A%0AF5&=%5E%0A6%0A%0A%0AF6&=%2F&%0A7%0A%0A%0AF7&=*%0A8%0A%0A%0AF8&=(%0A9%0A%0A%0AF9&=)%0A0%0A%0A%0AF10&=%2F_%0A-%0A%0A%0AF11&=+%0A%2F=%0A%0A%0AF12&_w:2%3B&=%0A%0A%0ABackspace%3B&@_w:1.5%3B&=%0ATab&=Q&=W%0A%0A%0A%0A%3Ci%20class%2F='kb%20kb-Arrows-Up'%3E%3C%2F%2Fi%3E&=E&=R&=T&=Y&=U&=I%0A%0A%0A%0A%3Ci%20class%2F='kb%20kb-Arrows-Up'%3E%3C%2F%2Fi%3E&=O%0A%0A%0A%0Asc&=P%0A%0A%0A%0Apb&_c=%23c4c8c5%3B&=%7B%0A%5B%0A%0A%0Ahm&=%7D%0A%5D%0A%0A%0Aend&_c=%23cccccc&w:1.5%3B&=%7C%0A%5C%0A%0A%0Aps%3B&@_w:1.75%3B&=%0ACapsLock&=A%0A%0A%0A%0A%3Ci%20class%2F='kb%20kb-Arrows-Left'%3E%3C%2F%2Fi%3E&=S%0A%0A%0A%0A%3Ci%20class%2F='kb%20kb-Arrows-Down'%3E%3C%2F%2Fi%3E&=D%0A%0A%0A%0A%3Ci%20class%2F='kb%20kb-Arrows-Right'%3E%3C%2F%2Fi%3E&=F&=G&=H&=J%0A%0A%0A%0A%3Ci%20class%2F='kb%20kb-Arrows-Left'%3E%3C%2F%2Fi%3E&=K%0A%0A%0A%0A%3Ci%20class%2F='kb%20kb-Arrows-Down'%3E%3C%2F%2Fi%3E&=L%0A%0A%0A%0A%3Ci%20class%2F='kb%20kb-Arrows-Right'%3E%3C%2F%2Fi%3E&=%2F:%0A%2F%3B%0A%0A%0Apu&=%22%0A'%0A%0A%0Apd&_st=MX3A-L1xx&w:2.25%3B&=%0A%0A%0AEnter%3B&@_w:2.25%3B&=%0AShift&=Z&=X&=C&=V&=B&_c=%23c4c8c5%3B&=N&_c=%23cccccc%3B&=M&=%3C%0A,&=%3E%0A.%0A%0A%0Ains&=%3F%0A%2F%2F%0A%0A%0Adel&_w:2.75%3B&=%0A%0A%0AShift%3B&@_w:1.25%3B&=%0ACtrl&_w:1.25%3B&=%0AWin%0A%0A%0ALock&_w:1.25%3B&=%0AAlt&_a:7&w:6.25%3B&=&_a:4&w:1.25%3B&=%0A%0A%0AAlt&_w:1.25%3B&=%0A%0A%0AFn&_w:1.25%3B&=%0A%0A%0AAnne&_w:1.25%3B&=%0A%0A%0ACtrl
+[anne-standard-layout2-link]: http://www.keyboard-layout-editor.com/##@_name=%E5%AE%89%E5%A6%AE%E6%A0%87%E5%87%86%E5%B8%83%E5%B1%802%20-%20%E9%94%AE%E7%9B%98%E5%B8%A6%E7%8B%AC%E7%AB%8B%E6%96%B9%E5%90%91%E9%94%AE%3B&@_a:7%3B&=Esc%0A%0A%0A%0A%60~&_a:4%3B&=!%0A1%0A%0A%0AF1&=%2F@%0A2%0A%0A%0AF2&=%23%0A3%0A%0A%0AF3&=$%0A4%0A%0A%0AF4&=%25%0A5%0A%0A%0AF5&=%5E%0A6%0A%0A%0AF6&=%2F&%0A7%0A%0A%0AF7&=*%0A8%0A%0A%0AF8&=(%0A9%0A%0A%0AF9&=)%0A0%0A%0A%0AF10&=%2F_%0A-%0A%0A%0AF11&=+%0A%2F=%0A%0A%0AF12&_w:2%3B&=%0A%0A%0ABackspace%3B&@_w:1.5%3B&=%0ATab&=Q&=W%0A%0A%0A%0A%3Ci%20class%2F='kb%20kb-Arrows-Up'%3E%3C%2F%2Fi%3E&=E&=R&=T&=Y&=U&=I%0A%0A%0A%0A%3Ci%20class%2F='kb%20kb-Arrows-Up'%3E%3C%2F%2Fi%3E&=O%0A%0A%0A%0Asc&=P%0A%0A%0A%0Apb&_c=%23c4c8c5%3B&=%7B%0A%5B%0A%0A%0Ahm&=%7D%0A%5D%0A%0A%0Aend&_c=%23cccccc&w:1.5%3B&=%7C%0A%5C%0A%0A%0Aps%3B&@_w:1.75%3B&=%0ACapsLock&=A%0A%0A%0A%0A%3Ci%20class%2F='kb%20kb-Arrows-Left'%3E%3C%2F%2Fi%3E&=S%0A%0A%0A%0A%3Ci%20class%2F='kb%20kb-Arrows-Down'%3E%3C%2F%2Fi%3E&=D%0A%0A%0A%0A%3Ci%20class%2F='kb%20kb-Arrows-Right'%3E%3C%2F%2Fi%3E&=F&=G&=H&=J%0A%0A%0A%0A%3Ci%20class%2F='kb%20kb-Arrows-Left'%3E%3C%2F%2Fi%3E&=K%0A%0A%0A%0A%3Ci%20class%2F='kb%20kb-Arrows-Down'%3E%3C%2F%2Fi%3E&=L%0A%0A%0A%0A%3Ci%20class%2F='kb%20kb-Arrows-Right'%3E%3C%2F%2Fi%3E&=%2F:%0A%2F%3B%0A%0A%0Apu&=%22%0A'%0A%0A%0Apd&_st=MX3A-L1xx&w:2.25%3B&=%0A%0A%0AEnter%3B&@_w:2.25%3B&=%0AShift&=Z&=X&=C&=V&=B&_c=%23c4c8c5%3B&=N&_c=%23cccccc%3B&=M&=%3C%0A,&=%3E%0A.%0A%0A%0Ains&=%3Ci%20class%2F='kb%20kb-Arrows-Up'%3E%3C%2F%2Fi%3E%0A%0A%0A%0A%2F%2F%3F&_w:2.75%3B&=%0A%0A%0AShift%3B&@_w:1.25%3B&=%0ACtrl&_w:1.25%3B&=%0AAnne&_w:1.25%3B&=%0AAlt&_a:7&w:6.25%3B&=&_a:4&w:1.25%3B&=%0A%0A%0A%3Ci%20class%2F='kb%20kb-Arrows-Left'%3E%3C%2F%2Fi%3E&_w:1.25%3B&=%0A%0A%0A%3Ci%20class%2F='kb%20kb-Arrows-Down'%3E%3C%2F%2Fi%3E&_w:1.25%3B&=%0A%0A%0A%3Ci%20class%2F='kb%20kb-Arrows-Right'%3E%3C%2F%2Fi%3E&_w:1.25%3B&=%0A%0A%0AFn
+[anne-mac-layout-link]: http://www.keyboard-layout-editor.com/##@_name=%E5%AE%89%E5%A6%AEMac%E5%B8%83%E5%B1%80%3B&@_a:7%3B&=Esc%0A%0A%0A%0A%60~&_a:4%3B&=!%0A1%0A%0A%0AF1&=%2F@%0A2%0A%0A%0AF2&=%23%0A3%0A%0A%0AF3&=$%0A4%0A%0A%0AF4&=%25%0A5%0A%0A%0AF5&=%5E%0A6%0A%0A%0AF6&=%2F&%0A7%0A%0A%0AF7&=*%0A8%0A%0A%0AF8&=(%0A9%0A%0A%0AF9&=)%0A0%0A%0A%0AF10&=%2F_%0A-%0A%0A%0AF11&=+%0A%2F=%0A%0A%0AF12&_w:2%3B&=%0A%0A%0ABackspace%3B&@_w:1.5%3B&=%0ATab&=Q&=W%0A%0A%0A%0A%3Ci%20class%2F='kb%20kb-Arrows-Up'%3E%3C%2F%2Fi%3E&=E&=R&=T&=Y&=U&=I%0A%0A%0A%0A%3Ci%20class%2F='kb%20kb-Arrows-Up'%3E%3C%2F%2Fi%3E&=O%0A%0A%0A%0Asc&=P%0A%0A%0A%0Apb&_c=%23c4c8c5%3B&=%7B%0A%5B%0A%0A%0Ahm&=%7D%0A%5D%0A%0A%0Aend&_c=%23cccccc&w:1.5%3B&=%7C%0A%5C%0A%0A%0Aps%3B&@_w:1.75%3B&=%0ACapsLock&=A%0A%0A%0A%0A%3Ci%20class%2F='kb%20kb-Arrows-Left'%3E%3C%2F%2Fi%3E&=S%0A%0A%0A%0A%3Ci%20class%2F='kb%20kb-Arrows-Down'%3E%3C%2F%2Fi%3E&=D%0A%0A%0A%0A%3Ci%20class%2F='kb%20kb-Arrows-Right'%3E%3C%2F%2Fi%3E&=F&=G&=H&=J%0A%0A%0A%0A%3Ci%20class%2F='kb%20kb-Arrows-Left'%3E%3C%2F%2Fi%3E&=K%0A%0A%0A%0A%3Ci%20class%2F='kb%20kb-Arrows-Down'%3E%3C%2F%2Fi%3E&=L%0A%0A%0A%0A%3Ci%20class%2F='kb%20kb-Arrows-Right'%3E%3C%2F%2Fi%3E&=%2F:%0A%2F%3B%0A%0A%0Apu&=%22%0A'%0A%0A%0Apd&_st=MX3A-L1xx&w:2.25%3B&=%0A%0A%0AEnter%3B&@_w:2.25%3B&=%0AShift&=Z&=X&=C&=V&=B&_c=%23c4c8c5%3B&=N&_c=%23cccccc%3B&=M&=%3C%0A,&=%3E%0A.%0A%0A%0Ains&=%3F%0A%2F%2F%0A%0A%0Adel&_w:2.75%3B&=%0A%0A%0AShift%3B&@_w:1.25%3B&=%0ACtrl&_w:1.25%3B&=%0AOptions&_w:1.25%3B&=%0ACmd&_a:7&w:6.25%3B&=&_a:4&w:1.25%3B&=%0A%0A%0AAlt&_w:1.25%3B&=%0A%0A%0AFn&_w:1.25%3B&=%0A%0A%0AAnne&_w:1.25%3B&=%0A%0A%0ACtrl
 
 [anne-dfu-changelog-link]: dfu/CHANGELOG
 [anne-manaul-link]: files/安妮PRO使用须知1.pdf
