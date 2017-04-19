@@ -67,7 +67,7 @@ FN + + | F12
 FN + U | 切换灯效（单循环） | 4 级调整<br />先静态再动态 | 
 FN + Y | 调整灯光亮度（单循环） | 10 级亮度
 FN + T | 动态灯效速率||
-FN + B | 蓝牙适配 | 详情看[PDF][anne-manaul-link]
+FN + B | 蓝牙适配 | 详情看[如下说明](#bluetooch)或[PDF][anne-manaul-link]
 FN + - | 关闭蓝牙 | | v1.0a+
 FN + R | 一键关灯 | | v1.0a+
 FN + 0 | 兼容模式/标准模式切换 | 必须在蓝牙配置模式下操作<br />黄灯表示兼容模式，绿灯为标模式 | v1.0a+
@@ -75,7 +75,7 @@ Fn + Win | WinLocak || 1.20.00+
 Left_Ctrl + Right_Ctrl | 切换配列(Layout) || 1.40.00+
 Left_Alt + Right_Alt | 锁定 Fn 层 | | 1.40.00+
 
-## 蓝牙适配
+## <a name="bluetooch"></a>蓝牙适配
 
 安妮Pro的蓝牙设置需要 Fn + B 先进入蓝牙配置模式，然后进行设置，完成后按 ESC 退出
 
