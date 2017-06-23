@@ -166,19 +166,6 @@ L1模式 :   按键 0 黄灯亮，功耗较高，兼容Win7
 
 版本[变更历史][anne-dfu-changelog-link]
 
-#### 正式版
-
-版本号 | 发布时间
----|---
-[1.0a](dfu/stable/v1.0a.rar) | 2016.04.30
-
-#### 测试版
-
-版本号 | 发布时间
----|---
-[1.09.03](dfu/beta/v1.09.03.rar) | 2016.04.30
-
-
 [anne-link]: http://www.obins.net/
 [anne-jd-z-link]: http://z.jd.com/project/details/34676.html
 [anne-taobao-link]: https://shop116784704.taobao.com/
