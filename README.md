@@ -1,9 +1,11 @@
 # 安妮机械键盘
 
-[官方网站][anne-link] | [京东众筹][anne-jd-z-link] | [淘宝店铺][anne-taobao-link]
+> **2018-03-09**: 自 2016 年底之后官方再无更新，不要再有所期盼。
+
+[官方网站][anne-link] | [京东众筹][anne-jd-z-link] | [淘宝店铺][anne-taobao-link] | [Reddit][anne-reddit-link]
 
 > 安妮键盘是由 obins 是由一群程序猿、设计师和外设发烧友一同打造的外设品牌。
-> o是our的首字母，代表着程序猿、设计师、发烧友、粉丝等喜欢obins产品的所有生物体，
+> o 是our的首字母，代表着程序猿、设计师、发烧友、粉丝等喜欢 obins 产品的所有生物体，
 > bin 在计算机中表示程序本身，在物理世界中代表我们的产品，obins 就是大家共同创造的产品，
 > 希望用最用心的设计，为用户提供最完美的产品和体验。
 
@@ -11,7 +13,7 @@
 
 这是一份非官方收集的关于安妮机械键盘的相关资料，主要目的是为了方便使用者能够找到一个相对比较全的地方查阅资料。
 
-## 沟通交流
+## 沟通交流（QQ 群）
 
 - 键盘群 `478061089`
 - 固件群 `340574284` - 需校验键盘群是否已加
@@ -169,6 +171,7 @@ L1模式 :   按键 0 黄灯亮，功耗较高，兼容Win7
 [anne-link]: http://www.obins.net/
 [anne-jd-z-link]: http://z.jd.com/project/details/34676.html
 [anne-taobao-link]: https://shop116784704.taobao.com/
+[anne-reddit-link]: https://www.reddit.com/r/AnnePro/
 
 [anne-standard-layout1-link]:  http://www.keyboard-layout-editor.com/##@_name=%E5%AE%89%E5%A6%AE%E6%A0%87%E5%87%86%E5%B8%83%E5%B1%801%3B&@_a:7%3B&=Esc%0A%0A%0A%0A%60~&_a:4%3B&=!%0A1%0A%0A%0AF1&=%2F@%0A2%0A%0A%0AF2&=%23%0A3%0A%0A%0AF3&=$%0A4%0A%0A%0AF4&=%25%0A5%0A%0A%0AF5&=%5E%0A6%0A%0A%0AF6&=%2F&%0A7%0A%0A%0AF7&=*%0A8%0A%0A%0AF8&=(%0A9%0A%0A%0AF9&=)%0A0%0A%0A%0AF10&=%2F_%0A-%0A%0A%0AF11&=+%0A%2F=%0A%0A%0AF12&_w:2%3B&=%0A%0A%0ABackspace%3B&@_w:1.5%3B&=%0ATab&=Q&=W%0A%0A%0A%0A%3Ci%20class%2F='kb%20kb-Arrows-Up'%3E%3C%2F%2Fi%3E&=E&=R&=T&=Y&=U&=I%0A%0A%0A%0A%3Ci%20class%2F='kb%20kb-Arrows-Up'%3E%3C%2F%2Fi%3E&=O%0A%0A%0A%0Asc&=P%0A%0A%0A%0Apb&_c=%23c4c8c5%3B&=%7B%0A%5B%0A%0A%0Ahm&=%7D%0A%5D%0A%0A%0Aend&_c=%23cccccc&w:1.5%3B&=%7C%0A%5C%0A%0A%0Aps%3B&@_w:1.75%3B&=%0ACapsLock&=A%0A%0A%0A%0A%3Ci%20class%2F='kb%20kb-Arrows-Left'%3E%3C%2F%2Fi%3E&=S%0A%0A%0A%0A%3Ci%20class%2F='kb%20kb-Arrows-Down'%3E%3C%2F%2Fi%3E&=D%0A%0A%0A%0A%3Ci%20class%2F='kb%20kb-Arrows-Right'%3E%3C%2F%2Fi%3E&=F&=G&=H&=J%0A%0A%0A%0A%3Ci%20class%2F='kb%20kb-Arrows-Left'%3E%3C%2F%2Fi%3E&=K%0A%0A%0A%0A%3Ci%20class%2F='kb%20kb-Arrows-Down'%3E%3C%2F%2Fi%3E&=L%0A%0A%0A%0A%3Ci%20class%2F='kb%20kb-Arrows-Right'%3E%3C%2F%2Fi%3E&=%2F:%0A%2F%3B%0A%0A%0Apu&=%22%0A'%0A%0A%0Apd&_st=MX3A-L1xx&w:2.25%3B&=%0A%0A%0AEnter%3B&@_w:2.25%3B&=%0AShift&=Z&=X&=C&=V&=B&_c=%23c4c8c5%3B&=N&_c=%23cccccc%3B&=M&=%3C%0A,&=%3E%0A.%0A%0A%0Ains&=%3F%0A%2F%2F%0A%0A%0Adel&_w:2.75%3B&=%0A%0A%0AShift%3B&@_w:1.25%3B&=%0ACtrl&_w:1.25%3B&=%0AWin%0A%0A%0ALock&_w:1.25%3B&=%0AAlt&_a:7&w:6.25%3B&=&_a:4&w:1.25%3B&=%0A%0A%0AAlt&_w:1.25%3B&=%0A%0A%0AFn&_w:1.25%3B&=%0A%0A%0AAnne&_w:1.25%3B&=%0A%0A%0ACtrl
 [anne-standard-layout2-link]: http://www.keyboard-layout-editor.com/##@_name=%E5%AE%89%E5%A6%AE%E6%A0%87%E5%87%86%E5%B8%83%E5%B1%802%20-%20%E9%94%AE%E7%9B%98%E5%B8%A6%E7%8B%AC%E7%AB%8B%E6%96%B9%E5%90%91%E9%94%AE%3B&@_a:7%3B&=Esc%0A%0A%0A%0A%60~&_a:4%3B&=!%0A1%0A%0A%0AF1&=%2F@%0A2%0A%0A%0AF2&=%23%0A3%0A%0A%0AF3&=$%0A4%0A%0A%0AF4&=%25%0A5%0A%0A%0AF5&=%5E%0A6%0A%0A%0AF6&=%2F&%0A7%0A%0A%0AF7&=*%0A8%0A%0A%0AF8&=(%0A9%0A%0A%0AF9&=)%0A0%0A%0A%0AF10&=%2F_%0A-%0A%0A%0AF11&=+%0A%2F=%0A%0A%0AF12&_w:2%3B&=%0A%0A%0ABackspace%3B&@_w:1.5%3B&=%0ATab&=Q&=W%0A%0A%0A%0A%3Ci%20class%2F='kb%20kb-Arrows-Up'%3E%3C%2F%2Fi%3E&=E&=R&=T&=Y&=U&=I%0A%0A%0A%0A%3Ci%20class%2F='kb%20kb-Arrows-Up'%3E%3C%2F%2Fi%3E&=O%0A%0A%0A%0Asc&=P%0A%0A%0A%0Apb&_c=%23c4c8c5%3B&=%7B%0A%5B%0A%0A%0Ahm&=%7D%0A%5D%0A%0A%0Aend&_c=%23cccccc&w:1.5%3B&=%7C%0A%5C%0A%0A%0Aps%3B&@_w:1.75%3B&=%0ACapsLock&=A%0A%0A%0A%0A%3Ci%20class%2F='kb%20kb-Arrows-Left'%3E%3C%2F%2Fi%3E&=S%0A%0A%0A%0A%3Ci%20class%2F='kb%20kb-Arrows-Down'%3E%3C%2F%2Fi%3E&=D%0A%0A%0A%0A%3Ci%20class%2F='kb%20kb-Arrows-Right'%3E%3C%2F%2Fi%3E&=F&=G&=H&=J%0A%0A%0A%0A%3Ci%20class%2F='kb%20kb-Arrows-Left'%3E%3C%2F%2Fi%3E&=K%0A%0A%0A%0A%3Ci%20class%2F='kb%20kb-Arrows-Down'%3E%3C%2F%2Fi%3E&=L%0A%0A%0A%0A%3Ci%20class%2F='kb%20kb-Arrows-Right'%3E%3C%2F%2Fi%3E&=%2F:%0A%2F%3B%0A%0A%0Apu&=%22%0A'%0A%0A%0Apd&_st=MX3A-L1xx&w:2.25%3B&=%0A%0A%0AEnter%3B&@_w:2.25%3B&=%0AShift&=Z&=X&=C&=V&=B&_c=%23c4c8c5%3B&=N&_c=%23cccccc%3B&=M&=%3C%0A,&=%3E%0A.%0A%0A%0Ains&=%3Ci%20class%2F='kb%20kb-Arrows-Up'%3E%3C%2F%2Fi%3E%0A%0A%0A%0A%2F%2F%3F&_w:2.75%3B&=%0A%0A%0AShift%3B&@_w:1.25%3B&=%0ACtrl&_w:1.25%3B&=%0AAnne&_w:1.25%3B&=%0AAlt&_a:7&w:6.25%3B&=&_a:4&w:1.25%3B&=%0A%0A%0A%3Ci%20class%2F='kb%20kb-Arrows-Left'%3E%3C%2F%2Fi%3E&_w:1.25%3B&=%0A%0A%0A%3Ci%20class%2F='kb%20kb-Arrows-Down'%3E%3C%2F%2Fi%3E&_w:1.25%3B&=%0A%0A%0A%3Ci%20class%2F='kb%20kb-Arrows-Right'%3E%3C%2F%2Fi%3E&_w:1.25%3B&=%0A%0A%0AFn
