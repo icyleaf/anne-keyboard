@@ -1,6 +1,6 @@
 # 安妮机械键盘
 
-> **2018-03-09**: 自 2016 年底之后官方再无更新，不要再有所期盼。
+> **2018-08-30**: 官方发布 Pro 2 键盘，会有新固件而且会兼容 Pro 1。
 
 [官方网站][anne-link] | [京东众筹][anne-jd-z-link] | [淘宝店铺][anne-taobao-link] | [Reddit][anne-reddit-link]
 
